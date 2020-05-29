@@ -1,0 +1,14 @@
+Models\data\UsersDAO_JDBC.class
+Models\domain\CategoriesDTO.class
+Config\Connect.class
+Models\data\ProductsDAO_JDBC.class
+Controllers\ControllerCategories.class
+Models\data\CategoriesDAO.class
+Controllers\ControllerLogin.class
+Models\data\ProductsDAO.class
+Models\domain\UsersDTO.class
+Models\domain\ProductsDTO.class
+Controllers\ControllerUser.class
+Models\data\CategoriesDAO_JDBC.class
+Models\data\UsersDAO.class
+Controllers\ControllerProduct.class
